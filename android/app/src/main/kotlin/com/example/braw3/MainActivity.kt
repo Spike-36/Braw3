@@ -1,4 +1,4 @@
-package com.brawapp2
+package com.example.braw3
 
 import io.flutter.embedding.android.FlutterActivity
 

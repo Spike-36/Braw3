@@ -1,6 +1,6 @@
 name: braw3
 description: Simple flashcard prototype with audio (and optional video)
-version: 1.0.0+6
+version: 1.0.0+2
 publish_to: "none"
 
 environment:
